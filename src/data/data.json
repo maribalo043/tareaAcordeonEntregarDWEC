@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "pregunta": "¿Cuánto vas a durar aquí?",
+            "respuesta": "Es como FAQ, no puedo durar mucho aquí ¿sabes?"
+        },
+        {
+            "id": 2,
+            "pregunta": "¿Qué quieres desayunar?",
+            "respuesta": "Pan con mermelada, miro al otro lado croasant con faquing café"
+        },
+        {
+            "id": 3,
+            "pregunta": "¿Qué es lo que no te gusta ver?",
+            "respuesta": "Panza, Panza, Panza, mileurista, mileurista es como FAQ no puedo durar mucho aquí ¿sabes?"
+        }
+    ]
+}
