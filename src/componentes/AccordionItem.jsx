@@ -14,7 +14,6 @@ export const AccordionItem = ({ question, answer, isActive, haceClick }) => {
             <span className="control">{isActive ? '--' : '+'}</span>
         </button>
         <div className={`answer_wrapper ${isActive ? 'open' : ''}`}>
-            {/*Esto es un poco rarete, consulte un libro, por que no encontraba la forma de hacer que cuando estuviera activo pintara el mensaje, se que no dimos nada parecido en clase*/}
             <div className="answer">{isActive && <p>{answer}</p>}</div>
         </div>
         </li>
